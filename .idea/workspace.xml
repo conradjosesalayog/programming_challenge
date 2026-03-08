@@ -18,7 +18,7 @@
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print_the_bigger_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_the_bigger_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_equal_if_numbers_are_same.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_equal_if_numbers_are_same.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.first_number_raised_to_the_second_number.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print_equal_if_numbers_are_same.executor&quot;: &quot;Run&quot;,
     &quot;Python.print_the_bigger_number.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -64,7 +65,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.print_the_bigger_number">
+  <component name="RunManager" selected="Python.print_equal_if_numbers_are_same">
     <configuration name="first_number_raised_to_the_second_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
@@ -81,6 +82,30 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="C:\Users\Conrad Jose Salayog\OneDrive\Desktop\programming_challenge\first_number_raised_to_the_second_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_equal_if_numbers_are_same" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programming_challenge" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_equal_if_numbers_are_same.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,6 +140,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_equal_if_numbers_are_same" />
         <item itemvalue="Python.print_the_bigger_number" />
       </list>
     </recent_temporary>
@@ -134,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772993478829</updated>
-      <workItem from="1772993480198" duration="2573000" />
+      <workItem from="1772993480198" duration="3481000" />
     </task>
     <servers />
   </component>
@@ -142,7 +168,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/programming_challenge$print_the_bigger_number.coverage" NAME="print_the_bigger_number Coverage Results" MODIFIED="1772995448472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programming_challenge$print_equal_if_numbers_are_same.coverage" NAME="print_equal_if_numbers_are_same Coverage Results" MODIFIED="1772997007267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programming_challenge$print_the_bigger_number.coverage" NAME="print_the_bigger_number Coverage Results" MODIFIED="1772996997019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$main.coverage" NAME="main Coverage Results" MODIFIED="1772993786453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$first_number_raised_to_the_second_number.coverage" NAME="first_number_raised_to_the_second_number Coverage Results" MODIFIED="1772995325320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
