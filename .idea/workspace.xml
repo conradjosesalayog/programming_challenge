@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_one_to_one_hundred_except_numbers_ending_with_zero.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_one_to_one_hundred_except_numbers_ending_with_zero.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +242,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772993478829</updated>
       <workItem from="1772993480198" duration="4142000" />
-      <workItem from="1773207566675" duration="3775000" />
+      <workItem from="1773207566675" duration="5760000" />
     </task>
     <servers />
   </component>
@@ -255,7 +256,7 @@
     <SUITE FILE_PATH="coverage/programming_challenge$print_how_many_odd_numbers_in_ten_numbers.coverage" NAME="print_how_many_odd_numbers_in_ten_numbers Coverage Results" MODIFIED="1773210521797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_product_of_two_numbers.coverage" NAME="print_the_product_of_two_numbers Coverage Results" MODIFIED="1773208569884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_quotient_of_two_numbers.coverage" NAME="print_the_quotient_of_two_numbers Coverage Results" MODIFIED="1773208610503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/programming_challenge$print_even_numbers_from_one_to_one_hundred.coverage" NAME="print_even_numbers_from_one_to_one_hundred Coverage Results" MODIFIED="1773213311888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programming_challenge$print_even_numbers_from_one_to_one_hundred.coverage" NAME="print_even_numbers_from_one_to_one_hundred Coverage Results" MODIFIED="1773215077117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$main.coverage" NAME="main Coverage Results" MODIFIED="1772993786453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_sum_of_the_two_numbers.coverage" NAME="print_the_sum_of_the_two_numbers Coverage Results" MODIFIED="1773207981695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$first_number_raised_to_the_second_number.coverage" NAME="first_number_raised_to_the_second_number Coverage Results" MODIFIED="1772995325320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
