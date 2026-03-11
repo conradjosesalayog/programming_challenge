@@ -17,7 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../Zoom Workplace.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_how_many_odd_numbers_in_ten_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_how_many_odd_numbers_in_ten_numbers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,7 +240,7 @@
       <option name="presentableId" value="Default" />
       <updated>1772993478829</updated>
       <workItem from="1772993480198" duration="4142000" />
-      <workItem from="1773207566675" duration="2430000" />
+      <workItem from="1773207566675" duration="2728000" />
     </task>
     <servers />
   </component>
