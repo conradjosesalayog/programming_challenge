@@ -66,6 +66,7 @@
     "Python.print_the_smaller_number.executor": "Run",
     "Python.print_the_sum_of_10_numbers.executor": "Run",
     "Python.print_the_sum_of_the_two_numbers.executor": "Run",
+    "Python.print_unique_and_duplicate.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -81,7 +82,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.print_first_entry_numbers_if_duplicated">
+  <component name="RunManager" selected="Python.print_unique_and_duplicate">
     <configuration name="first_number_raised_to_the_second_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
@@ -202,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_one_to_onehundred_using_whille_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_unique_and_duplicate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,7 +218,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_one_to_onehundred_using_whille_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_unique_and_duplicate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_unique_and_duplicate" />
         <item itemvalue="Python.print_first_entry_numbers_if_duplicated" />
         <item itemvalue="Python.print_numbers_that_dont_have_duplicate" />
         <item itemvalue="Python.print_all_the_numbers_between_two_numbers" />
         <item itemvalue="Python.print_one_to_one_hundred_except_numbers_ending_with_zero_and_five" />
-        <item itemvalue="Python.print_one_to_onehundred_using_whille_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +255,7 @@
       <workItem from="1772993480198" duration="4142000" />
       <workItem from="1773207566675" duration="6413000" />
       <workItem from="1773946080788" duration="992000" />
-      <workItem from="1773989657219" duration="10895000" />
+      <workItem from="1773989657219" duration="12804000" />
     </task>
     <servers />
   </component>
@@ -267,6 +268,7 @@
     <SUITE FILE_PATH="coverage/programming_challenge$print_all_the_numbers_between_two_numbers.coverage" NAME="print_all_the_numbers_between_two_numbers Coverage Results" MODIFIED="1773998530826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_one_to_one_hundred_except_numbers_ending_with_zero_and_five.coverage" NAME="print_one_to_one_hundred_except_numbers_ending_with_zero_and_five Coverage Results" MODIFIED="1773998459276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_difference_of_two_numbers.coverage" NAME="print_the_difference_of_two_numbers Coverage Results" MODIFIED="1773990100726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programming_challenge$print_unique_and_duplicate.coverage" NAME="print_unique_and_duplicate Coverage Results" MODIFIED="1774009609049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_even_numbers_from_one_to_one_hundred.coverage" NAME="print_even_numbers_from_one_to_one_hundred Coverage Results" MODIFIED="1773215077117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$main.coverage" NAME="main Coverage Results" MODIFIED="1772993786453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_sum_of_the_two_numbers.coverage" NAME="print_the_sum_of_the_two_numbers Coverage Results" MODIFIED="1773207981695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
