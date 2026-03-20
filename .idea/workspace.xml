@@ -17,7 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../Zoom Workplace.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print_unique_and_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_unique_and_duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Python.print_one_to_onehundred_using_whille_loop.executor": "Run",
     "Python.print_the_bigger_number.executor": "Run",
     "Python.print_the_difference_of_two_numbers.executor": "Run",
+    "Python.print_the_lowest_number.executor": "Run",
     "Python.print_the_product_of_two_numbers.executor": "Run",
     "Python.print_the_quotient_of_two_numbers.executor": "Run",
     "Python.print_the_quotient_of_two_numbers_wo_decimal_point.executor": "Run",
@@ -82,7 +83,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.print_unique_and_duplicate">
+  <component name="RunManager" selected="Python.print_the_lowest_number">
     <configuration name="first_number_raised_to_the_second_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
@@ -179,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_one_to_one_hundred_except_numbers_ending_with_zero_and_five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="print_the_lowest_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,7 +195,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_one_to_one_hundred_except_numbers_ending_with_zero_and_five.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_the_lowest_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_the_lowest_number" />
         <item itemvalue="Python.print_unique_and_duplicate" />
         <item itemvalue="Python.print_first_entry_numbers_if_duplicated" />
         <item itemvalue="Python.print_numbers_that_dont_have_duplicate" />
         <item itemvalue="Python.print_all_the_numbers_between_two_numbers" />
-        <item itemvalue="Python.print_one_to_one_hundred_except_numbers_ending_with_zero_and_five" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +256,8 @@
       <workItem from="1772993480198" duration="4142000" />
       <workItem from="1773207566675" duration="6413000" />
       <workItem from="1773946080788" duration="992000" />
-      <workItem from="1773989657219" duration="13122000" />
+      <workItem from="1773989657219" duration="13781000" />
+      <workItem from="1774020022052" duration="352000" />
     </task>
     <servers />
   </component>
