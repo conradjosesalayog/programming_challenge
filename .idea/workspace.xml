@@ -18,6 +18,7 @@
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_the_remainer_of_two_numbers_divided.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_the_remainer_of_two_numbers_divided.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +248,7 @@
       <workItem from="1772993480198" duration="4142000" />
       <workItem from="1773207566675" duration="6413000" />
       <workItem from="1773946080788" duration="992000" />
-      <workItem from="1773989657219" duration="777000" />
+      <workItem from="1773989657219" duration="1731000" />
     </task>
     <servers />
   </component>
@@ -268,6 +269,6 @@
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_product_of_two_numbers.coverage" NAME="print_the_product_of_two_numbers Coverage Results" MODIFIED="1773208569884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$print_the_quotient_of_two_numbers.coverage" NAME="print_the_quotient_of_two_numbers Coverage Results" MODIFIED="1773208610503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/programming_challenge$first_number_raised_to_the_second_number.coverage" NAME="first_number_raised_to_the_second_number Coverage Results" MODIFIED="1772995325320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/programming_challenge$print_the_quotient_of_two_numbers_wo_decimal_point.coverage" NAME="print_the_quotient_of_two_numbers_wo_decimal_point Coverage Results" MODIFIED="1773990504472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/programming_challenge$print_the_quotient_of_two_numbers_wo_decimal_point.coverage" NAME="print_the_quotient_of_two_numbers_wo_decimal_point Coverage Results" MODIFIED="1773990844898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
