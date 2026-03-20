@@ -17,7 +17,7 @@
       <change afterPath="$PROJECT_DIR$/../Zoom Workplace.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_unique_and_duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_unique_and_duplicate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +255,7 @@
       <workItem from="1772993480198" duration="4142000" />
       <workItem from="1773207566675" duration="6413000" />
       <workItem from="1773946080788" duration="992000" />
-      <workItem from="1773989657219" duration="12804000" />
+      <workItem from="1773989657219" duration="13122000" />
     </task>
     <servers />
   </component>
