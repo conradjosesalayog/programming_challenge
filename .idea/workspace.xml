@@ -17,7 +17,8 @@
       <change afterPath="$PROJECT_DIR$/../Zoom Workplace.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/print_odd_numbers_one_to_one_hundred.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_odd_numbers_one_to_one_hundred.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_lowest_to_highest_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_lowest_to_highest_number.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
     "Python.print_not_equal_if_numbers_are_not_same.executor": "Run",
     "Python.print_numbers_six_digit.executor": "Run",
     "Python.print_numbers_that_dont_have_duplicate.executor": "Run",
+    "Python.print_odd_numbers_one_to_one_hundred.executor": "Run",
     "Python.print_one_to_one_hundred_except_numbers_ending_with_zero_and_five.executor": "Run",
     "Python.print_one_to_onehundred_using_whille_loop.executor": "Run",
     "Python.print_the_bigger_number.executor": "Run",
@@ -93,31 +95,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.print_odd_numbers_one_to_one_hundred">
-    <configuration name="display_average_of_the_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="programming_challenge" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/display_average_of_the_numbers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.print_lowest_to_highest_number">
     <configuration name="first_number_raised_to_the_second_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
@@ -135,6 +113,30 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="C:\Users\Conrad Jose Salayog\OneDrive\Desktop\programming_challenge\first_number_raised_to_the_second_number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_lowest_to_highest_number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programming_challenge" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_lowest_to_highest_number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_lowest_to_highest_number" />
         <item itemvalue="Python.print_odd_numbers_one_to_one_hundred" />
         <item itemvalue="Python.print_one_to_onehundred_using_whille_loop" />
         <item itemvalue="Python.print_numbers_six_digit" />
         <item itemvalue="Python.print_name_without_spaces" />
-        <item itemvalue="Python.display_average_of_the_numbers" />
       </list>
     </recent_temporary>
   </component>
