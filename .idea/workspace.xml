@@ -17,7 +17,6 @@
       <change afterPath="$PROJECT_DIR$/../Zoom Workplace.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,58 +41,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.display_all_duplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.display_average_of_the_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.display_highest_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.display_numbers_highest_to_lowest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_number_raised_to_the_second_number (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_number_raised_to_the_second_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_all_the_numbers_between_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_equal_if_numbers_are_same.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_even_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_even_numbers_from_one_to_one_hundred.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_first_entry_numbers_if_duplicated.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_first_number_minus_all_remaining_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_how_many_odd_numbers_in_ten_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_lowest_to_highest_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_name_without_spaces.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_not_equal_if_numbers_are_not_same.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_numbers_six_digit.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_numbers_that_dont_have_duplicate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_odd_numbers_one_to_one_hundred.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_one_to_one_hundred_except_numbers_ending_with_zero_and_five.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_one_to_onehundred_using_whille_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_bigger_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_difference_of_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_lowest_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_product_of_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_quotient_of_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_quotient_of_two_numbers_wo_decimal_point.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_smaller_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_sum_of_10_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_the_sum_of_the_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.print_unique_and_duplicate.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Conrad Jose Salayog/OneDrive/Desktop/programming_challenge&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.display_all_duplicate.executor": "Run",
+    "Python.display_average_of_the_numbers.executor": "Run",
+    "Python.display_highest_number.executor": "Run",
+    "Python.display_numbers_highest_to_lowest.executor": "Run",
+    "Python.first_number_raised_to_the_second_number (1).executor": "Run",
+    "Python.first_number_raised_to_the_second_number.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.print_all_the_numbers_between_two_numbers.executor": "Run",
+    "Python.print_equal_if_numbers_are_same.executor": "Run",
+    "Python.print_even_numbers.executor": "Run",
+    "Python.print_even_numbers_from_one_to_one_hundred.executor": "Run",
+    "Python.print_first_entry_numbers_if_duplicated.executor": "Run",
+    "Python.print_first_number_minus_all_remaining_numbers.executor": "Run",
+    "Python.print_full_name_uppercase.executor": "Run",
+    "Python.print_how_many_odd_numbers_in_ten_numbers.executor": "Run",
+    "Python.print_lowest_to_highest_number.executor": "Run",
+    "Python.print_name_without_spaces.executor": "Run",
+    "Python.print_not_equal_if_numbers_are_not_same.executor": "Run",
+    "Python.print_numbers_six_digit.executor": "Run",
+    "Python.print_numbers_that_dont_have_duplicate.executor": "Run",
+    "Python.print_odd_numbers_one_to_one_hundred.executor": "Run",
+    "Python.print_one_to_one_hundred_except_numbers_ending_with_zero_and_five.executor": "Run",
+    "Python.print_one_to_onehundred_using_whille_loop.executor": "Run",
+    "Python.print_the_bigger_number.executor": "Run",
+    "Python.print_the_difference_of_two_numbers.executor": "Run",
+    "Python.print_the_lowest_number.executor": "Run",
+    "Python.print_the_product_of_two_numbers.executor": "Run",
+    "Python.print_the_quotient_of_two_numbers.executor": "Run",
+    "Python.print_the_quotient_of_two_numbers_wo_decimal_point.executor": "Run",
+    "Python.print_the_smaller_number.executor": "Run",
+    "Python.print_the_sum_of_10_numbers.executor": "Run",
+    "Python.print_the_sum_of_the_two_numbers.executor": "Run",
+    "Python.print_unique_and_duplicate.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Conrad Jose Salayog/OneDrive/Desktop/programming_challenge",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.print_full_name_uppercase">
     <configuration name="first_number_raised_to_the_second_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="programming_challenge" />
