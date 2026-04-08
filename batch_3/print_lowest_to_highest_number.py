@@ -6,4 +6,4 @@ while True:
     except:
         break
 numbers.sort()
-print("Highest to lowest:" , numbers)
+print("Lowest to highest:" , numbers)
