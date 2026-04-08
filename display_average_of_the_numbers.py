@@ -6,3 +6,5 @@ while True:
     except:
         break
 
+average = sum(numbers)/len(numbers)
+print("The average is: ", average)
