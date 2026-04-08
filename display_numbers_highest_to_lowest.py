@@ -5,3 +5,5 @@ while True:
         numbers.append(num)
     except:
         break
+numbers.sort(reverse=True)
+print("Highest to lowest:" , numbers)
