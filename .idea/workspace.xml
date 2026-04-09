@@ -17,6 +17,8 @@
       <change afterPath="$PROJECT_DIR$/../Zoom Workplace.lnk" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../python-project/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_full_name_swapcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/print_full_name_swapcase.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +59,8 @@
     "Python.print_even_numbers_from_one_to_one_hundred.executor": "Run",
     "Python.print_first_entry_numbers_if_duplicated.executor": "Run",
     "Python.print_first_number_minus_all_remaining_numbers.executor": "Run",
+    "Python.print_full_name_proper_casing.executor": "Run",
+    "Python.print_full_name_swapcase.executor": "Run",
     "Python.print_full_name_uppercase.executor": "Run",
     "Python.print_how_many_odd_numbers_in_ten_numbers.executor": "Run",
     "Python.print_lowest_to_highest_number.executor": "Run",
@@ -94,7 +98,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.print_full_name_proper_casing">
+  <component name="RunManager" selected="Python.print_full_name_swapcase">
     <configuration name="first_number_raised_to_the_second_number" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="programming_challenge" />
       <option name="ENV_FILES" value="" />
@@ -136,6 +140,30 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_full_name_proper_casing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_full_name_swapcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="programming_challenge" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_full_name_swapcase.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,37 +244,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_one_to_onehundred_using_whille_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="programming_challenge" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_one_to_onehundred_using_whille_loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_full_name_swapcase" />
         <item itemvalue="Python.print_full_name_proper_casing" />
         <item itemvalue="Python.print_full_name_uppercase" />
         <item itemvalue="Python.print_lowest_to_highest_number" />
         <item itemvalue="Python.print_odd_numbers_one_to_one_hundred" />
-        <item itemvalue="Python.print_one_to_onehundred_using_whille_loop" />
       </list>
     </recent_temporary>
   </component>
