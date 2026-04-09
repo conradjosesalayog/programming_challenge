@@ -1,13 +1,8 @@
-lowest_number = None
-
+numbers = []
 while True:
-    user_input = input("Enter number: ")
-
     try:
-        number_value = int(user_input)
-        if lowest_number is None or number_value < lowest_number:
-            lowest_number = number_value
+        num = int(input("Enter a number: "))
+        numbers.append(num)
     except:
         break
-
-print("Lowest:", lowest_number)
+print("The lowest number is: ", min(numbers))
