@@ -1,14 +1,11 @@
 numbers = []
 while True:
-    number_input = input("enter number: ")
-
-    if not number_input.isdigit():
+    try:
+        num = int(input("Enter number: "))
+        if num in numbers:
+            print("Duplicate")
+        else:
+            print("Unique")
+            numbers.append(num)
+    except:
         break
-
-    num = int(number_input)
-
-    if num in numbers:
-        print("Duplicate")
-    else:
-        print("Unique")
-        numbers.append(num)
